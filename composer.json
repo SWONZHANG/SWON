@@ -14,5 +14,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "license": "MIT"
+    "license": "MIT",
+    "autoload":{
+    	"psr-4":{
+    		"Swon\\":"src/"
+    	}
+    }
 }
