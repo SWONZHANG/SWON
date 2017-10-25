@@ -1,5 +1,5 @@
 {
-    "name": "SWONZHANG/SWON",
+    "name": "swonzhang/swon",
     "description": "just for a test",
     "require": {
         "php": "^5.3.3 || ^7.0"
