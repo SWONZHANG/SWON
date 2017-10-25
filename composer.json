@@ -2,6 +2,6 @@
     "name": "SWONZHANG/SWON",
     "description": "just for a test",
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": "^5.3.3 || ^7.0"
     }
 }
