@@ -11,6 +11,11 @@ class Swon{
 
 		echo "success!";
 	}
+
+	public function zhang(){
+		
+		echo "zhang";
+	}
 }
 
 
