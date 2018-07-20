@@ -14,7 +14,7 @@ class Swon{
 
 	public function zhang(){
 		
-		echo "zhangxi";
+		echo "zhangi";
 	}
 }
 
