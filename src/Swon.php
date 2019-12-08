@@ -21,6 +21,11 @@ class Swon{
 
 		echo "i'am back";
 	}
+
+
+	public function ahaha(){
+		echo "new back";
+	}
 }
 
 
