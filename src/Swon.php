@@ -16,6 +16,11 @@ class Swon{
 		
 		echo "zhangi";
 	}
+
+	public function newfunction(){
+
+		echo "i'am back";
+	}
 }
 
 
