@@ -26,6 +26,11 @@ class Swon{
 	public function ahaha(){
 		echo "new back";
 	}
+
+	public function anotherfunction()
+	{
+		
+	}
 }
 
 
