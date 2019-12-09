@@ -1,0 +1,3 @@
+project_name=swon_personal
+image_name=swonzhangtest
+port=6009:80
