@@ -1,4 +1,4 @@
-FROM zhangxi.wang:5000/swon/nginx-php7:v3
+FROM zhangxi.wang:5000/swon/nginx-php7:v5
 
 #FROM docker.listcloud.cn:5000/nginx-php7
 
