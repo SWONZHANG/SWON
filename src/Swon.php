@@ -29,7 +29,7 @@ class Swon{
 
 	public function anotherfunction()
 	{
-		echo "金坷垃"; 
+		echo "金坷垃";  
 	}
 }
 
